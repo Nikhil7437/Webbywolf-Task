@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Webbywolf-Task/static/css/main.9e9b2506.css",
+    "main.js": "/Webbywolf-Task/static/js/main.87231505.js",
+    "static/js/787.a5a00b74.chunk.js": "/Webbywolf-Task/static/js/787.a5a00b74.chunk.js",
+    "index.html": "/Webbywolf-Task/index.html",
+    "main.9e9b2506.css.map": "/Webbywolf-Task/static/css/main.9e9b2506.css.map",
+    "main.87231505.js.map": "/Webbywolf-Task/static/js/main.87231505.js.map",
+    "787.a5a00b74.chunk.js.map": "/Webbywolf-Task/static/js/787.a5a00b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e9b2506.css",
+    "static/js/main.87231505.js"
+  ]
+}
